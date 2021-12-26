@@ -1,4 +1,4 @@
-# This is my template. 
+# This is my basic blog template. 
 
 It will be updated as we put in new features, Bezrat Hashem. 
 
