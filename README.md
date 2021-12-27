@@ -8,3 +8,6 @@
 
 When you are making your blog, app, website, a lot of the foundation work will already be done. 
 Simply clone this to your local folder and start at this point. 
+
+
+
